@@ -8,4 +8,4 @@ resources:
 images:
 - name: frontend
   newName: ghcr.io/nickpeachey/frontend
-  newTag: a6fb21c4c9c4
+  newTag: 65ac1f99d2be
